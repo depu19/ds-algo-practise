@@ -23,7 +23,7 @@ public class Runner {
 	public static int fibo(int n) {
 
 		if (F[n] != -1) {
-			return F[n];// This means fibo is already calculated for that value
+			return F[n];// fibo is already calculated for that value
 						// of "n"
 		}
 
